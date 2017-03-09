@@ -1,5 +1,5 @@
 {
-  "name": "react_course_23_09_21_30",
+  "name": "test task",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/romabelka/js_ru_23_09_21_30"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/romabelka/js_ru_23_09_21_30"
+    "url": "https://github.com/knyshh/evoplaytest"
   },
-  "homepage": "https://github.com/romabelka/js_ru_23_09_21_30",
+  "homepage": "https://github.com/knyshh/evoplaytest",
   "devDependencies": {
     "babel-core": "^6.13.2",
     "babel-loader": "^6.2.4",
