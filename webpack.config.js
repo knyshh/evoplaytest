@@ -41,5 +41,8 @@ module.exports = {
         alias: {
             styles: path.join(__dirname, 'src/sass')
         }
+    },
+    devServer: {
+        historyApiFallback: true
     }
 }
